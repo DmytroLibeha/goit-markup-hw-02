@@ -1,0 +1,52 @@
+body {
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    background-color: #FFFFFF
+  }
+
+.logo {
+    color: #4D5AE5;
+}
+
+.logo-color {
+   color: #2E2F42; 
+}
+
+.logo .logo-color:hover,
+.logo .logo-color:focus,
+.logo .logo-color:active
+{
+    color: #4D5AE5;
+}
+
+.contacts-links .link {
+    color: #434455;
+}
+
+.contacts-links .link:hover,
+.contacts-links .link:focus
+ {
+    color: #4D5AE5;
+}
+
+.nav-links .link {
+    color: #2E2F42;
+}
+
+.nav-links .link:hover,
+.nav-links .link:focus {
+    color: #404BBF;
+}
+
+ul {
+	list-style-type: none;
+}
+
+.button {
+    cursor: pointer;
+	background-color: #4D5AE5;
+    
+}
+.button:hover {
+    background-color: #404BBF;
+}
