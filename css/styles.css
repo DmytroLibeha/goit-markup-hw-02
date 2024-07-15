@@ -1,52 +1,49 @@
 body {
-    font-family: "Roboto", sans-serif;
-    color: #434455;
-    background-color: #FFFFFF
-  }
+  font-family: "Roboto", sans-serif;
+  color: #434455;
+  background-color: #ffffff;
+}
 
 .logo {
-    color: #4D5AE5;
+  color: #4d5ae5;
 }
 
 .logo-color {
-   color: #2E2F42; 
+  color: #2e2f42;
 }
 
 .logo .logo-color:hover,
 .logo .logo-color:focus,
-.logo .logo-color:active
-{
-    color: #4D5AE5;
+.logo .logo-color:active {
+  color: #4d5ae5;
 }
 
 .contacts-links .link {
-    color: #434455;
+  color: #434455;
 }
 
 .contacts-links .link:hover,
-.contacts-links .link:focus
- {
-    color: #4D5AE5;
+.contacts-links .link:focus {
+  color: #4d5ae5;
 }
 
 .nav-links .link {
-    color: #2E2F42;
+  color: #2e2f42;
 }
 
 .nav-links .link:hover,
 .nav-links .link:focus {
-    color: #404BBF;
+  color: #404bbf;
 }
 
 ul {
-	list-style-type: none;
+  list-style-type: none;
 }
 
 .button {
-    cursor: pointer;
-	background-color: #4D5AE5;
-    
+  cursor: pointer;
+  background-color: #4d5ae5;
 }
 .button:hover {
-    background-color: #404BBF;
+  background-color: #404bbf;
 }
