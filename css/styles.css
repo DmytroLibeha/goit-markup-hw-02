@@ -24,17 +24,28 @@ body {
   color: #4d5ae5;
 }
 
+.contacts {
+  font-style: normal;
+}
+
 .contacts-links .link {
   color: #434455;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 
 .contacts-links .link:hover,
 .contacts-links .link:focus {
-  color: #4d5ae5;
+  color: #404bbf;
 }
 
 .nav-links .link {
   color: #2e2f42;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 
 .nav-links .link:hover,
