@@ -26,8 +26,13 @@ body {
   color: #4d5ae5;
 }
 
+.link {
+  text-decoration: none;
+}
+
 .contacts {
   font-style: normal;
+  font-weight: 400;
 }
 
 .contacts-links .link {
